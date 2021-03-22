@@ -1,6 +1,6 @@
 # `DEV` Cavalo de Tróia
 
-Esse projeto se destina a demonstrar o quão eficaz, eficiente e efetivo fazer testes automatizados
+Esse projeto se destina a demonstrar o quão eficaz, eficiente e efetivo é fazer testes automatizados
 
 O grande problema das empresas é perder tempo fazendo trabalhos cujos resultados são baixos a curto e longo prazo
 
